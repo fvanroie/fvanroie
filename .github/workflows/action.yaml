@@ -18,7 +18,7 @@ jobs:
           user: teuchezh
           template: classic
           base: header, activity, repositories, community
-          config_timezone: Europe/Moscow
+          config_timezone: Europe/Brussels
           plugin_traffic: yes
           plugin_achievements: yes
           plugin_achievements_limit: 8
