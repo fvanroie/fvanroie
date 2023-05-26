@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4446 Commits
+                            4453 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    402 views in last two weeks
+                                    426 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -346,16 +346,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 3.15mb of code in 165 edited files across 200 commits over last 14 days</small>
+                <small>estimation from 3.25mb of code in 166 edited files across 200 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.19274526393548" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="241.19274526393548" y="0" width="149.87669697347116" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="391.06944223740663" y="0" width="66.03038124728893" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.09982348469555" y="0" width="2.900176515304435" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.85023771790807" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="241.85023771790807" y="0" width="150.2852614896989" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="392.1354992076069" y="0" width="66.21038034865293" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.34587955625983" y="0" width="1.6541204437400951" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -368,7 +368,7 @@
                             </div>
                             <small>
                                 <div>2.78k lines</div>
-                                <div>52.43%</div>
+                                <div>52.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -380,7 +380,7 @@
                             </div>
                             <small>
                                 <div>343 lines</div>
-                                <div>14.35%</div>
+                                <div>14.39%</div>
                             </small>
                         </div>
                     </section>
@@ -394,7 +394,7 @@
                             </div>
                             <small>
                                 <div>6 lines</div>
-                                <div>32.58%</div>
+                                <div>32.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -405,8 +405,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>44 lines</div>
-                                <div>0.63%</div>
+                                <div>31 lines</div>
+                                <div>0.36%</div>
                             </small>
                         </div>
                     </section>
@@ -2614,7 +2614,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="134.85 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="135.36666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -2634,10 +2634,10 @@
                                     <span class="prefix">Great</span>
                                     chatter
                                     <div class="value-wrapper">
-                                        <div class="value">461</div>
+                                        <div class="value">462</div>
                                     </div>
                                 </div>
-                                <div class="text">Participated in discussions 461 times</div>
+                                <div class="text">Participated in discussions 462 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
