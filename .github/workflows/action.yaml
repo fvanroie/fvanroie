@@ -22,7 +22,7 @@ jobs:
           base: header, activity, repositories, community
           config_timezone: Europe/Brussels
           plugin_traffic: yes
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_limit: 8
           plugin_achievements_secrets: no
           plugin_achievements_threshold: C
